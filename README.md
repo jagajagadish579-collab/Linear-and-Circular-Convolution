@@ -95,4 +95,4 @@ title('circular convolution');
 <img width="1621" height="837" alt="image" src="https://github.com/user-attachments/assets/789fdacb-a1d9-4ea7-b7b9-dde795e280b4" />
 
 ## RESULT: 
-Thus, Linear Convolution and Circular Convolution of the given discrete-time sequences were successfully performed using SCILAB. The linear convolution output and circular convolution output were obtained successfully
+Thus, Linear Convolution and Circular Convolution of the given discrete-time sequences were successfully performed using SCILAB. The linear convolution output and circular convolution output were obtained successfully.
